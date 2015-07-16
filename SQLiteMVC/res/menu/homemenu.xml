@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    
+	<item 
+	    android:title="Add Employee"
+	    android:id="@+id/menuAddEmp"	    
+	    />
+	<item 
+	    android:title="Delete All"
+	    android:id="@+id/menuDeleteAll"	    
+	    />
+	<item 
+	    android:title="Total"
+	    android:id="@+id/menuTotal"	    
+	    />
+	<item 
+	    android:title="Exit"
+	    android:id="@+id/menuExit"	    
+	    />    
+</menu>
+    
+
+
